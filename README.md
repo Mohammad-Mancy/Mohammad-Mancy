@@ -25,7 +25,6 @@ Here are some ideas to get you started:-->
 
 <a href="https://www.linkedin.com/in/mohammad-mancy-75b591227/"><img align="left" alt="MohammadMancy LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-<a href="https://www.instagram.com/mohammad.mancy.33/"><img align="left" alt="MohammadMancy instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <a href="https://www.facebook.com/mohammad.mancy.33"><img align="left" alt="MohammadMancy facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 
