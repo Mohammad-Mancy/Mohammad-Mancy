@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🌱 I’m currently learning Full-stack web development
-- 👯 I’m looking to collaborate on web developer
+- 👯 I’m looking to collaborate with a web developers
 - 📫 reach me: mohammad.mancy994@gmail.com
 
 ### Languages and Tools :</br>
@@ -24,7 +24,6 @@ Here are some ideas to get you started:-->
 ### Connect with me :
 
 <a href="https://www.linkedin.com/in/mohammad-mancy-75b591227/"><img align="left" alt="MohammadMancy LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-
-
+<a href="https://github.com/Mohammad-Mancy"><img align="left" alt="MohammadMancy LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 <a href="https://www.facebook.com/mohammad.mancy.33"><img align="left" alt="MohammadMancy facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-
+https://github.com/Mohammad-Mancy
