@@ -1,4 +1,8 @@
-### Hi there 👋,
+### Hi there 👋, I am Mohammad
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
+</div>
 
 <!--
 **MohammadMancy/MohammadMancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +26,8 @@ Here are some ideas to get you started:-->
 
 
 ### Connect with me :
-
-<a href="https://www.linkedin.com/in/mohammad-mancy-75b591227/"><img align="left" alt="MohammadMancy LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://github.com/Mohammad-Mancy"><img align="left" alt="MohammadMancy LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-<a href="https://www.facebook.com/mohammad.mancy.33"><img align="left" alt="MohammadMancy facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mohammad-mancy-75b591227/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><a/>
+  <a href="https://github.com/Mohammad-Mancy/"><img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=black&logoColor=white" alt="Github Badge"/><a/>
+  <a href="https://www.facebook.com/mohammad.mancy.33/"><img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/><a/>
+</div>
