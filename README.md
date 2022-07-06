@@ -18,8 +18,7 @@ Here are some ideas to get you started:-->
 I am a Junior Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
+- :telescope: I’m a full-stack developer practising my skills in frontend and backend.
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
 ---
