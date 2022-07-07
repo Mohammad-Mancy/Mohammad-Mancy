@@ -33,7 +33,6 @@ I am a Junior Full Stack Web Developer <img src="https://media.giphy.com/media/W
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel " width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,11 +46,10 @@ I am a Junior Full Stack Web Developer <img src="https://media.giphy.com/media/W
 ---
 
 ### :fire: My Stats :
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mohammad-Mancy&theme=dark&background=000000)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mohammad-Mancy&theme=dark&background=000000)]
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Mancy&layout=compact&theme=vision-friendly-dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Mancy&layout=compact&theme=vision-friendly-dark)
 
 ---
 
